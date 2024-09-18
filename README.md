@@ -19,7 +19,7 @@ palavra mencionada na frase, e então exibir os itens mais próximos dessa profu
 Com o `Java` instalado em sua máquina clone este repositório, conforme o código abaixo:
 
 ```
-git clone wa-chanllege-backend
+git clone https://github.com/MarcosSC00/wa-chanllege-backend.git
 ```
 
 ## Descrição 📒
