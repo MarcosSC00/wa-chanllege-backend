@@ -1,0 +1,32 @@
+{
+  "name": "automoveis",
+  "children": [
+    {
+      "name": "carro",
+      "children": [
+        {
+          "name": "esportivo",
+          "children": [
+            {
+              "name": "supra",
+              "children": []
+            },
+            {
+              "name": "gtr",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "moto",
+      "children": [
+        {
+          "name": "importada",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
